@@ -1,0 +1,31 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: lightgoldenrodyellow;
+}
+/* header */
+header{
+    background-color: lightblue;
+    width: 100%;
+    height: 10vh;
+}
+/* main */
+main{
+    width: 100%;
+}
+.divrep{
+    height: 15vh;
+}
+/* footer */
+footer{
+    background-color: lightcoral;
+    width: 100%;
+    height: 10vh;
+    margin-top: auto;
+}
